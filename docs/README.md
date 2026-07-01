@@ -4,7 +4,7 @@ title: 关于
 
 ## 是谁写的？
 
-本人是一名`前端开发工程师`，网名`漫长。`，现就职于`喜马拉雅`，位于上海。欲了解更多可以访问我的[个人网站](https://henri.ren)哦。
+本人是一名`前端开发工程师`，位于上海。欲了解更多可以访问我的[个人网站](https://studio.henri.ren)哦。
 
 ## 这是什么文档？
 
@@ -25,6 +25,6 @@ title: 关于
 
 都欢迎联系我与我沟通哈。
 
-下面是本人微信。
+下面是本人邮箱。
 
-<img style="margin-left: 10%;" :src="$withBase('/WechatQR.jpeg')" alt="微信二维码">
+henrizhang@henri.ren
